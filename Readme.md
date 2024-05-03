@@ -1,6 +1,5 @@
 # Keyz
-
-Keyz is a simple yet powerful encryption tool developed in Indonesia.
+encryption tool developed in Indonesia.
 
 ## Introduction
 
